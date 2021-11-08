@@ -6,5 +6,7 @@
  <project path="device/samsung/i9105p" name="WinSSitaly/android_device_samsung_i9105p.git" remote="github" revision="lineage-15.1" />
  <project path="vendor/samsung/galaxys2plus-common" name="WinSSitaly/proprietary_vendor_samsung_galaxys2plus-common.git" remote="github" revision="android-8.1" />
  <project path="kernel/samsung/galaxys2plus-common" name="WinSSitaly/android_kernel_samsung_galaxys2plus-common.git" remote="github" revision="android-8.1" />
+  <project path="hardware/samsung" name="WinSSitaly/android_hardware_samsung.git" remote="github" revision="lineage-15.1" />
+
  
 </manifest>

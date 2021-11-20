@@ -8,7 +8,7 @@
  <project path="kernel/samsung/galaxys2plus-common" name="WinSSitaly/android_kernel_samsung_galaxys2plus-common.git" remote="github" revision="android-8.1" />
  <project path="hardware/samsung" name="WinSSitaly/android_hardware_samsung.git" remote="github" revision="lineage-15.1" />
  <project path="packages/resources/devicesettings" name="WinSSitaly/android_packages_resources_devicesettings.git" remote="github" revision="lineage-15.1" />
- <project path="external/stlport" name="LineageOS/android_external_stlport.git" remote="github" revision="cm-14.1">
+ <project path="external/stlport" name="LineageOS/android_external_stlport.git" remote="github" revision="lineage-15.1">
  <project path="build_tools" name="WinSSitaly/build_tools.git" remote="github" revision="lineage-15.1" />
  
 </manifest>
